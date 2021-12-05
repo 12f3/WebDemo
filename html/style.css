@@ -1,0 +1,17 @@
+.panel{
+    background-color: darkgoldenrod;
+    padding: 5px 5px 5px 5px;
+    border: 2px gray;
+    text-align-last: center;
+    font-size: medium;
+}
+
+.panel1{
+    background-color: red;
+    padding: 5px 5px 5px 5px;
+    border: 2px gray;
+    text-align-last: center;
+}
+.p{
+    font-size: large;
+}
